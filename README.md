@@ -1,3 +1,12 @@
+# Historical Figures and Events
+
+This program is all about exploring significant historical figures and major events that shaped the world. It aims to inform and educate users by presenting history in an interactive and engaging way.
+
+This project was developed as part of our defense for the 2nd semester of our 1st year in college at PHINMA Cagayan de Oro College (PHINMA COC).
+
+
+This is Our Code
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
